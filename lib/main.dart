@@ -16,7 +16,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
         appBar: AppBar(
           title: Text(
-            "UTS 181021450009",
+            "David Kurniawan",
             style: new TextStyle(fontSize: 24.0, fontWeight: FontWeight.bold),
           ),
           backgroundColor: Colors.red,
